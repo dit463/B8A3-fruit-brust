@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap");
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+@media screen and (max-width:640px) {
+
+    /* .for-flex-cl{
+        flex-direction: column;
+    } */
+}
