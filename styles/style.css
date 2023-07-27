@@ -3,10 +3,3 @@
 body {
   font-family: "Lato", sans-serif;
 }
-
-@media screen and (max-width:640px) {
-
-    /* .for-flex-cl{
-        flex-direction: column;
-    } */
-}
